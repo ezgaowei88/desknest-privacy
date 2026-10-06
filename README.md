@@ -94,3 +94,5 @@ DeskNest 桌面巢 - 使用说明
 【注意事项】
 - 如被安全软件（360 等）拦截启动或文件操作，请将 DeskNest.exe 加入白名单
 - 运行中更改显示缩放比例后建议重启应用
+
+DeskNest 开发者 | 做桌面效率小工具 爱发电欢迎支持 → https://afdian.com/a/desknest
