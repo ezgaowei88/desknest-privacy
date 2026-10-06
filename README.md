@@ -1,3 +1,5 @@
+<img width="3440" height="1440" alt="桌面巢-发爱发电动态" src="https://github.com/user-attachments/assets/93deea18-a4ad-4a9c-b4a0-be76ec7d07c9" />
+
 DeskNest 桌面巢 - 使用说明
 ================================
 
